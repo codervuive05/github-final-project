@@ -1,3 +1,17 @@
+# github-final-project — Code of Conduct
+
+Source URL: https://github.com/codervuive05/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+## Contents
+
+- Our Pledge: a welcoming and harassment-free community.
+- Our Standards: respectful behavior; no harassment or discrimination.
+- Enforcement Responsibilities: community leaders clarify and enforce the standards.
+- Scope: community spaces and official public representation.
+- Enforcement: report incidents to the community leaders for fair review.
+- Enforcement Guidelines: correction, warning, temporary ban, and permanent ban.
+- Attribution: Contributor Covenant version 2.0 and Mozilla enforcement guidance.
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
